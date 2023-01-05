@@ -9,4 +9,5 @@ Use your superpowers and the powerful Pokeballs at your disposal to defeat the G
 
 [Report](/doc/Proj_Report.pdf)
 
+### Video
 [![Yt video](http://img.youtube.com/vi/inYz8ARiVhw/0.jpg)](https://www.youtube.com/watch?v=inYz8ARiVhw "FEUP LCOM 2022 - MARIO-MAN: Pokeball Edition")
