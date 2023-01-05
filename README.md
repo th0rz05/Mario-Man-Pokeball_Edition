@@ -1,6 +1,6 @@
 # Mario-Man : Pokeball Edition
 
-Welcome to Mario-Man : Pokeball Edition, a game developed for the [Computer Laboratory Curricular Unit](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680)
+Welcome to Mario-Man : Pokeball Edition, a game developed for the [Computer Laboratory Curricular Unit](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680) at FEUP.
 "Mario-Man: Pokeball Edition," an exciting game where you control Superman and throw Pokeballs at waves of Goombas from the Mario universe. Your goal is to kill as many Goombas as possible and try to survive for as many rounds as you can.
 
 As you progress through the levels, the Goombas will become more numerous and more formidable. You'll need quick reflexes and strategic thinking to take them down and advance to the next round.
